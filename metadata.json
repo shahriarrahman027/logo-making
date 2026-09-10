@@ -1,0 +1,6 @@
+{
+  "name": "4K Logo Studio",
+  "description": "High-resolution 4K and 2000x2000px logo generator with Gemini 3 Pro Image (1K, 2K, 4K affordance).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
